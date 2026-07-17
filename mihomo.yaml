@@ -31,23 +31,23 @@ external-controller: 127.0.0.1:9090
 proxies:
   - {name: "📢 https://t.me/irnova_proxy", server: 192.0.2.1, port: 443, type: vmess, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, alterId: 0, cipher: auto, tls: true, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, network: ws, ws-opts: {path: /?fake=1, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}, udp: false}
   - {name: "test", server: 192.0.2.1, port: 443, type: vmess, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, alterId: 0, cipher: auto, tls: true, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, network: ws, ws-opts: {path: /?fake=1, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}, udp: false}
-  - {name: "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]", server: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, port: 443, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.210.79:443 [VLESS]", server: 104.17.210.79, port: 443, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.185.28:2053 [VLESS]", server: 104.17.185.28, port: 2053, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.29.125:2087 [VLESS]", server: 104.17.29.125, port: 2087, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.48.115:2087 [VLESS]", server: 104.17.48.115, port: 2087, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 172.66.3.75:2083 [VLESS]", server: 172.66.3.75, port: 2083, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 172.66.2.121:2053 [VLESS]", server: 172.66.2.121, port: 2053, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.52.242:443 [VLESS]", server: 104.17.52.242, port: 443, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.19.32.90:2083 [VLESS]", server: 104.19.32.90, port: 2083, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 8.39.125.27:2053 [VLESS]", server: 8.39.125.27, port: 2053, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.20.206:2053 [VLESS]", server: 104.17.20.206, port: 2053, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.19.34.147:8443 [VLESS]", server: 104.19.34.147, port: 8443, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.19.174:2053 [VLESS]", server: 104.17.19.174, port: 2053, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 162.159.40.174:2096 [VLESS]", server: 162.159.40.174, port: 2096, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 172.67.70.78:2096 [VLESS]", server: 172.67.70.78, port: 2096, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 8.35.211.250:2087 [VLESS]", server: 8.35.211.250, port: 2087, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.184.75:2053 [VLESS]", server: 104.17.184.75, port: 2053, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: safari, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]", server: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, port: 443, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 173.245.59.241:8443 [VLESS]", server: 173.245.59.241, port: 8443, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 162.159.42.168:8443 [VLESS]", server: 162.159.42.168, port: 8443, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 198.41.209.162:2053 [VLESS]", server: 198.41.209.162, port: 2053, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 198.41.209.1:443 [VLESS]", server: 198.41.209.1, port: 443, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 173.245.58.144:8443 [VLESS]", server: 173.245.58.144, port: 8443, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.35.204:2053 [VLESS]", server: 104.19.35.204, port: 2053, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 162.159.32.73:8443 [VLESS]", server: 162.159.32.73, port: 8443, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.144.195:2096 [VLESS]", server: 104.19.144.195, port: 2096, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 162.159.37.108:2087 [VLESS]", server: 162.159.37.108, port: 2087, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.148.180:2087 [VLESS]", server: 104.19.148.180, port: 2087, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 173.245.58.141:8443 [VLESS]", server: 173.245.58.141, port: 8443, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 8.35.211.11:2096 [VLESS]", server: 8.35.211.11, port: 2096, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.49.148:2087 [VLESS]", server: 104.17.49.148, port: 2087, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 172.66.0.194:2083 [VLESS]", server: 172.66.0.194, port: 2083, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 162.159.38.140:2087 [VLESS]", server: 162.159.38.140, port: 2087, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.61.4:2083 [VLESS]", server: 104.17.61.4, port: 2083, type: vless, uuid: 764c1973-3294-4dff-8f19-372230eaa7a7, tls: true, skip-cert-verify: false, servername: nova-coral-node-7bb9.nova-ea3fc5.workers.dev, client-fingerprint: edge, network: ws, ws-opts: {path: /, headers: {Host: nova-coral-node-7bb9.nova-ea3fc5.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -59,22 +59,22 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.210.79:443 [VLESS]
-      - سرویس رایگان نوا 104.17.185.28:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.29.125:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.48.115:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.3.75:2083 [VLESS]
-      - سرویس رایگان نوا 172.66.2.121:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.52.242:443 [VLESS]
-      - سرویس رایگان نوا 104.19.32.90:2083 [VLESS]
-      - سرویس رایگان نوا 8.39.125.27:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.20.206:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.34.147:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.19.174:2053 [VLESS]
-      - سرویس رایگان نوا 162.159.40.174:2096 [VLESS]
-      - سرویس رایگان نوا 172.67.70.78:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.250:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.184.75:2053 [VLESS]
+      - سرویس رایگان نوا 173.245.59.241:8443 [VLESS]
+      - سرویس رایگان نوا 162.159.42.168:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.162:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.1:443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.144:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.35.204:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.32.73:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.195:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.37.108:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.148.180:2087 [VLESS]
+      - سرویس رایگان نوا 173.245.58.141:8443 [VLESS]
+      - سرویس رایگان نوا 8.35.211.11:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.49.148:2087 [VLESS]
+      - سرویس رایگان نوا 172.66.0.194:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.140:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.61.4:2083 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -82,44 +82,44 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.210.79:443 [VLESS]
-      - سرویس رایگان نوا 104.17.185.28:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.29.125:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.48.115:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.3.75:2083 [VLESS]
-      - سرویس رایگان نوا 172.66.2.121:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.52.242:443 [VLESS]
-      - سرویس رایگان نوا 104.19.32.90:2083 [VLESS]
-      - سرویس رایگان نوا 8.39.125.27:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.20.206:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.34.147:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.19.174:2053 [VLESS]
-      - سرویس رایگان نوا 162.159.40.174:2096 [VLESS]
-      - سرویس رایگان نوا 172.67.70.78:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.250:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.184.75:2053 [VLESS]
+      - سرویس رایگان نوا 173.245.59.241:8443 [VLESS]
+      - سرویس رایگان نوا 162.159.42.168:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.162:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.1:443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.144:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.35.204:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.32.73:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.195:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.37.108:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.148.180:2087 [VLESS]
+      - سرویس رایگان نوا 173.245.58.141:8443 [VLESS]
+      - سرویس رایگان نوا 8.35.211.11:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.49.148:2087 [VLESS]
+      - سرویس رایگان نوا 172.66.0.194:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.140:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.61.4:2083 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.210.79:443 [VLESS]
-      - سرویس رایگان نوا 104.17.185.28:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.29.125:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.48.115:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.3.75:2083 [VLESS]
-      - سرویس رایگان نوا 172.66.2.121:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.52.242:443 [VLESS]
-      - سرویس رایگان نوا 104.19.32.90:2083 [VLESS]
-      - سرویس رایگان نوا 8.39.125.27:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.20.206:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.34.147:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.19.174:2053 [VLESS]
-      - سرویس رایگان نوا 162.159.40.174:2096 [VLESS]
-      - سرویس رایگان نوا 172.67.70.78:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.250:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.184.75:2053 [VLESS]
+      - سرویس رایگان نوا 173.245.59.241:8443 [VLESS]
+      - سرویس رایگان نوا 162.159.42.168:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.162:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.1:443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.144:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.35.204:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.32.73:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.195:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.37.108:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.148.180:2087 [VLESS]
+      - سرویس رایگان نوا 173.245.58.141:8443 [VLESS]
+      - سرویس رایگان نوا 8.35.211.11:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.49.148:2087 [VLESS]
+      - سرویس رایگان نوا 172.66.0.194:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.140:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.61.4:2083 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -127,22 +127,22 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.210.79:443 [VLESS]
-      - سرویس رایگان نوا 104.17.185.28:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.29.125:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.48.115:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.3.75:2083 [VLESS]
-      - سرویس رایگان نوا 172.66.2.121:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.52.242:443 [VLESS]
-      - سرویس رایگان نوا 104.19.32.90:2083 [VLESS]
-      - سرویس رایگان نوا 8.39.125.27:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.20.206:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.34.147:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.19.174:2053 [VLESS]
-      - سرویس رایگان نوا 162.159.40.174:2096 [VLESS]
-      - سرویس رایگان نوا 172.67.70.78:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.250:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.184.75:2053 [VLESS]
+      - سرویس رایگان نوا 173.245.59.241:8443 [VLESS]
+      - سرویس رایگان نوا 162.159.42.168:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.162:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.1:443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.144:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.35.204:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.32.73:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.195:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.37.108:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.148.180:2087 [VLESS]
+      - سرویس رایگان نوا 173.245.58.141:8443 [VLESS]
+      - سرویس رایگان نوا 8.35.211.11:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.49.148:2087 [VLESS]
+      - سرویس رایگان نوا 172.66.0.194:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.140:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.61.4:2083 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -169,22 +169,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.210.79:443 [VLESS]
-      - سرویس رایگان نوا 104.17.185.28:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.29.125:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.48.115:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.3.75:2083 [VLESS]
-      - سرویس رایگان نوا 172.66.2.121:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.52.242:443 [VLESS]
-      - سرویس رایگان نوا 104.19.32.90:2083 [VLESS]
-      - سرویس رایگان نوا 8.39.125.27:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.20.206:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.34.147:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.19.174:2053 [VLESS]
-      - سرویس رایگان نوا 162.159.40.174:2096 [VLESS]
-      - سرویس رایگان نوا 172.67.70.78:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.250:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.184.75:2053 [VLESS]
+      - سرویس رایگان نوا 173.245.59.241:8443 [VLESS]
+      - سرویس رایگان نوا 162.159.42.168:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.162:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.1:443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.144:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.35.204:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.32.73:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.195:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.37.108:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.148.180:2087 [VLESS]
+      - سرویس رایگان نوا 173.245.58.141:8443 [VLESS]
+      - سرویس رایگان نوا 8.35.211.11:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.49.148:2087 [VLESS]
+      - سرویس رایگان نوا 172.66.0.194:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.140:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.61.4:2083 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -197,22 +197,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.210.79:443 [VLESS]
-      - سرویس رایگان نوا 104.17.185.28:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.29.125:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.48.115:2087 [VLESS]
-      - سرویس رایگان نوا 172.66.3.75:2083 [VLESS]
-      - سرویس رایگان نوا 172.66.2.121:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.52.242:443 [VLESS]
-      - سرویس رایگان نوا 104.19.32.90:2083 [VLESS]
-      - سرویس رایگان نوا 8.39.125.27:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.20.206:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.34.147:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.19.174:2053 [VLESS]
-      - سرویس رایگان نوا 162.159.40.174:2096 [VLESS]
-      - سرویس رایگان نوا 172.67.70.78:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.250:2087 [VLESS]
-      - سرویس رایگان نوا 104.17.184.75:2053 [VLESS]
+      - سرویس رایگان نوا 173.245.59.241:8443 [VLESS]
+      - سرویس رایگان نوا 162.159.42.168:8443 [VLESS]
+      - سرویس رایگان نوا 198.41.209.162:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.209.1:443 [VLESS]
+      - سرویس رایگان نوا 173.245.58.144:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.35.204:2053 [VLESS]
+      - سرویس رایگان نوا 162.159.32.73:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.195:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.37.108:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.148.180:2087 [VLESS]
+      - سرویس رایگان نوا 173.245.58.141:8443 [VLESS]
+      - سرویس رایگان نوا 8.35.211.11:2096 [VLESS]
+      - سرویس رایگان نوا 104.17.49.148:2087 [VLESS]
+      - سرویس رایگان نوا 172.66.0.194:2083 [VLESS]
+      - سرویس رایگان نوا 162.159.38.140:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.61.4:2083 [VLESS]
 rules:
 # PHISHING BLOCK RULES
   - GEOSITE,category-phishing,REJECT
