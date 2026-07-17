@@ -116,7 +116,7 @@
       "server_port": 443,
       "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
+        "path": "/",
         "type": "ws",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
@@ -134,196 +134,12 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.19.150.211:2083 [VLESS]",
-      "server": "104.19.150.211",
-      "server_port": 2083,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "safari"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 162.159.37.94:2083 [VLESS]",
-      "server": "162.159.37.94",
-      "server_port": 2083,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "safari"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.165.50:2087 [VLESS]",
-      "server": "104.17.165.50",
-      "server_port": 2087,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "safari"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 172.67.79.225:8443 [VLESS]",
-      "server": "172.67.79.225",
-      "server_port": 8443,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "safari"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.26.0.39:2053 [VLESS]",
-      "server": "104.26.0.39",
-      "server_port": 2053,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "safari"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 162.159.38.28:2083 [VLESS]",
-      "server": "162.159.38.28",
-      "server_port": 2083,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "safari"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 162.159.38.196:2087 [VLESS]",
-      "server": "162.159.38.196",
-      "server_port": 2087,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "safari"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.28.17:443 [VLESS]",
-      "server": "104.17.28.17",
-      "server_port": 443,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "safari"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 172.67.64.231:2096 [VLESS]",
-      "server": "172.67.64.231",
+      "tag": "سرویس رایگان نوا 104.17.123.187:2096 [VLESS]",
+      "server": "104.17.123.187",
       "server_port": 2096,
       "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
+        "path": "/",
         "type": "ws",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
@@ -341,58 +157,12 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.19.53.58:2096 [VLESS]",
-      "server": "104.19.53.58",
-      "server_port": 2096,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "safari"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 172.66.0.190:443 [VLESS]",
-      "server": "172.66.0.190",
-      "server_port": 443,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "safari"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.18.33.3:2083 [VLESS]",
-      "server": "104.18.33.3",
+      "tag": "سرویس رایگان نوا 198.41.209.157:2083 [VLESS]",
+      "server": "198.41.209.157",
       "server_port": 2083,
       "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
+        "path": "/",
         "type": "ws",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
@@ -410,12 +180,35 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 91.193.58.207:2087 [VLESS]",
-      "server": "91.193.58.207",
+      "tag": "سرویس رایگان نوا 104.17.180.6:2083 [VLESS]",
+      "server": "104.17.180.6",
+      "server_port": 2083,
+      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 8.39.125.170:2087 [VLESS]",
+      "server": "8.39.125.170",
       "server_port": 2087,
       "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
+        "path": "/",
         "type": "ws",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
@@ -433,35 +226,12 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 173.245.59.19:2053 [VLESS]",
-      "server": "173.245.59.19",
-      "server_port": 2053,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "safari"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 8.35.211.139:8443 [VLESS]",
-      "server": "8.35.211.139",
+      "tag": "سرویس رایگان نوا 104.17.166.136:8443 [VLESS]",
+      "server": "104.17.166.136",
       "server_port": 8443,
       "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
+        "path": "/",
         "type": "ws",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
@@ -479,12 +249,242 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.18.33.187:443 [VLESS]",
-      "server": "104.18.33.187",
+      "tag": "سرویس رایگان نوا 104.17.31.17:2053 [VLESS]",
+      "server": "104.17.31.17",
+      "server_port": 2053,
+      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.97.137:443 [VLESS]",
+      "server": "104.17.97.137",
       "server_port": 443,
       "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/video/TBRAGkFcFQkPQF1aX14BRkpERVcVRVdMXlIQCBEBUVVPAFcZBgMNTQALBxEBEUJWRlkWXldWFQAb",
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 162.159.38.70:2096 [VLESS]",
+      "server": "162.159.38.70",
+      "server_port": 2096,
+      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.16.149.250:2083 [VLESS]",
+      "server": "104.16.149.250",
+      "server_port": 2083,
+      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.222.9:2087 [VLESS]",
+      "server": "104.17.222.9",
+      "server_port": 2087,
+      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.16.254.253:2087 [VLESS]",
+      "server": "104.16.254.253",
+      "server_port": 2087,
+      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.26.6.110:8443 [VLESS]",
+      "server": "104.26.6.110",
+      "server_port": 8443,
+      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 8.35.211.36:2096 [VLESS]",
+      "server": "8.35.211.36",
+      "server_port": 2096,
+      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 108.162.198.205:443 [VLESS]",
+      "server": "108.162.198.205",
+      "server_port": 443,
+      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.53.69:443 [VLESS]",
+      "server": "104.17.53.69",
+      "server_port": 443,
+      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 108.162.198.205:2083 [VLESS]",
+      "server": "108.162.198.205",
+      "server_port": 2083,
+      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "path": "/",
         "type": "ws",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
@@ -511,22 +511,22 @@
         "🔮 负载均衡",
         "DIRECT",
         "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.150.211:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.37.94:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.165.50:2087 [VLESS]",
-        "سرویس رایگان نوا 172.67.79.225:8443 [VLESS]",
-        "سرویس رایگان نوا 104.26.0.39:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.28:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.196:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.17:443 [VLESS]",
-        "سرویس رایگان نوا 172.67.64.231:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.53.58:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.0.190:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.3:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.207:2087 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.19:2053 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.139:8443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.187:443 [VLESS]"
+        "سرویس رایگان نوا 104.17.123.187:2096 [VLESS]",
+        "سرویس رایگان نوا 198.41.209.157:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.180.6:2083 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.170:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.166.136:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.31.17:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.97.137:443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.70:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.149.250:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.222.9:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.253:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.6.110:8443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.36:2096 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.53.69:443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:2083 [VLESS]"
       ]
     },
     {
@@ -534,22 +534,22 @@
       "tag": "♻️ 自动选择",
       "outbounds": [
         "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.150.211:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.37.94:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.165.50:2087 [VLESS]",
-        "سرویس رایگان نوا 172.67.79.225:8443 [VLESS]",
-        "سرویس رایگان نوا 104.26.0.39:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.28:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.196:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.17:443 [VLESS]",
-        "سرویس رایگان نوا 172.67.64.231:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.53.58:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.0.190:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.3:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.207:2087 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.19:2053 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.139:8443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.187:443 [VLESS]"
+        "سرویس رایگان نوا 104.17.123.187:2096 [VLESS]",
+        "سرویس رایگان نوا 198.41.209.157:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.180.6:2083 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.170:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.166.136:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.31.17:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.97.137:443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.70:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.149.250:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.222.9:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.253:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.6.110:8443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.36:2096 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.53.69:443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:2083 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -560,22 +560,22 @@
       "tag": "🔯 故障转移",
       "outbounds": [
         "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.150.211:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.37.94:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.165.50:2087 [VLESS]",
-        "سرویس رایگان نوا 172.67.79.225:8443 [VLESS]",
-        "سرویس رایگان نوا 104.26.0.39:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.28:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.196:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.17:443 [VLESS]",
-        "سرویس رایگان نوا 172.67.64.231:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.53.58:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.0.190:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.3:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.207:2087 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.19:2053 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.139:8443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.187:443 [VLESS]"
+        "سرویس رایگان نوا 104.17.123.187:2096 [VLESS]",
+        "سرویس رایگان نوا 198.41.209.157:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.180.6:2083 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.170:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.166.136:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.31.17:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.97.137:443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.70:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.149.250:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.222.9:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.253:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.6.110:8443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.36:2096 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.53.69:443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:2083 [VLESS]"
       ]
     },
     {
@@ -583,22 +583,22 @@
       "tag": "🔮 负载均衡",
       "outbounds": [
         "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.150.211:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.37.94:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.165.50:2087 [VLESS]",
-        "سرویس رایگان نوا 172.67.79.225:8443 [VLESS]",
-        "سرویس رایگان نوا 104.26.0.39:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.28:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.196:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.17:443 [VLESS]",
-        "سرویس رایگان نوا 172.67.64.231:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.53.58:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.0.190:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.3:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.207:2087 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.19:2053 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.139:8443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.187:443 [VLESS]"
+        "سرویس رایگان نوا 104.17.123.187:2096 [VLESS]",
+        "سرویس رایگان نوا 198.41.209.157:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.180.6:2083 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.170:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.166.136:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.31.17:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.97.137:443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.70:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.149.250:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.222.9:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.253:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.6.110:8443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.36:2096 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.53.69:443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:2083 [VLESS]"
       ]
     },
     {
@@ -634,22 +634,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.150.211:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.37.94:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.165.50:2087 [VLESS]",
-        "سرویس رایگان نوا 172.67.79.225:8443 [VLESS]",
-        "سرویس رایگان نوا 104.26.0.39:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.28:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.196:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.17:443 [VLESS]",
-        "سرویس رایگان نوا 172.67.64.231:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.53.58:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.0.190:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.3:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.207:2087 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.19:2053 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.139:8443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.187:443 [VLESS]"
+        "سرویس رایگان نوا 104.17.123.187:2096 [VLESS]",
+        "سرویس رایگان نوا 198.41.209.157:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.180.6:2083 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.170:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.166.136:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.31.17:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.97.137:443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.70:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.149.250:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.222.9:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.253:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.6.110:8443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.36:2096 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.53.69:443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:2083 [VLESS]"
       ]
     },
     {
@@ -665,22 +665,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.150.211:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.37.94:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.165.50:2087 [VLESS]",
-        "سرویس رایگان نوا 172.67.79.225:8443 [VLESS]",
-        "سرویس رایگان نوا 104.26.0.39:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.28:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.196:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.17:443 [VLESS]",
-        "سرویس رایگان نوا 172.67.64.231:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.53.58:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.0.190:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.3:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.207:2087 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.19:2053 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.139:8443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.187:443 [VLESS]"
+        "سرویس رایگان نوا 104.17.123.187:2096 [VLESS]",
+        "سرویس رایگان نوا 198.41.209.157:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.180.6:2083 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.170:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.166.136:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.31.17:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.97.137:443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.70:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.149.250:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.222.9:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.253:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.6.110:8443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.36:2096 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.53.69:443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:2083 [VLESS]"
       ]
     },
     {
@@ -691,22 +691,22 @@
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01",
         "DIRECT",
         "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.150.211:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.37.94:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.165.50:2087 [VLESS]",
-        "سرویس رایگان نوا 172.67.79.225:8443 [VLESS]",
-        "سرویس رایگان نوا 104.26.0.39:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.28:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.38.196:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.28.17:443 [VLESS]",
-        "سرویس رایگان نوا 172.67.64.231:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.53.58:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.0.190:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.3:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.207:2087 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.19:2053 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.139:8443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.187:443 [VLESS]"
+        "سرویس رایگان نوا 104.17.123.187:2096 [VLESS]",
+        "سرویس رایگان نوا 198.41.209.157:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.180.6:2083 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.170:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.166.136:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.31.17:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.97.137:443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.70:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.149.250:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.222.9:2087 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.253:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.6.110:8443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.36:2096 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.53.69:443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.205:2083 [VLESS]"
       ]
     },
     {
