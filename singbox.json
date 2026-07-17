@@ -110,14 +110,14 @@
       "tag": "DIRECT"
     },
     {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
       "server": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
       "server_port": 443,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/",
         "type": "ws",
+        "path": "/",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
         }
@@ -133,37 +133,14 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 108.162.198.122:2083 [VLESS]",
-      "server": "108.162.198.122",
-      "server_port": 2083,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 198.41.223.197:443 [VLESS]",
-      "server": "198.41.223.197",
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 104.19.53.112:443 [TROJAN]",
+      "server": "104.19.53.112",
       "server_port": 443,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/",
         "type": "ws",
+        "path": "/",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
         }
@@ -179,14 +156,106 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 198.41.208.36:8443 [VLESS]",
-      "server": "198.41.208.36",
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 8.35.211.191:2087 [TROJAN]",
+      "server": "8.35.211.191",
+      "server_port": 2087,
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 104.17.163.66:2096 [TROJAN]",
+      "server": "104.17.163.66",
+      "server_port": 2096,
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 104.17.159.203:2087 [TROJAN]",
+      "server": "104.17.159.203",
+      "server_port": 2087,
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 104.26.10.69:2053 [TROJAN]",
+      "server": "104.26.10.69",
+      "server_port": 2053,
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 104.17.58.37:8443 [TROJAN]",
+      "server": "104.17.58.37",
       "server_port": 8443,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/",
         "type": "ws",
+        "path": "/",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
         }
@@ -202,14 +271,106 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.19.54.83:443 [VLESS]",
-      "server": "104.19.54.83",
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 104.17.165.147:2083 [TROJAN]",
+      "server": "104.17.165.147",
+      "server_port": 2083,
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 104.17.58.177:2053 [TROJAN]",
+      "server": "104.17.58.177",
+      "server_port": 2053,
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 162.159.38.18:2053 [TROJAN]",
+      "server": "162.159.38.18",
+      "server_port": 2053,
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 104.19.54.94:2096 [TROJAN]",
+      "server": "104.19.54.94",
+      "server_port": 2096,
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 172.67.66.200:443 [TROJAN]",
+      "server": "172.67.66.200",
       "server_port": 443,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/",
         "type": "ws",
+        "path": "/",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
         }
@@ -225,14 +386,14 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.19.35.232:2083 [VLESS]",
-      "server": "104.19.35.232",
-      "server_port": 2083,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 198.41.209.241:2053 [TROJAN]",
+      "server": "198.41.209.241",
+      "server_port": 2053,
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/",
         "type": "ws",
+        "path": "/",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
         }
@@ -248,14 +409,14 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 198.41.208.230:443 [VLESS]",
-      "server": "198.41.208.230",
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 104.17.168.19:443 [TROJAN]",
+      "server": "104.17.168.19",
       "server_port": 443,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/",
         "type": "ws",
+        "path": "/",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
         }
@@ -271,14 +432,37 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.62.6:2053 [VLESS]",
-      "server": "104.17.62.6",
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 104.19.48.204:2096 [TROJAN]",
+      "server": "104.19.48.204",
+      "server_port": 2096,
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 104.16.255.8:2053 [TROJAN]",
+      "server": "104.16.255.8",
       "server_port": 2053,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/",
         "type": "ws",
+        "path": "/",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
         }
@@ -294,198 +478,14 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 91.193.58.75:2053 [VLESS]",
-      "server": "91.193.58.75",
-      "server_port": 2053,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.16.149.161:2053 [VLESS]",
-      "server": "104.16.149.161",
-      "server_port": 2053,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.222.107:2083 [VLESS]",
-      "server": "104.17.222.107",
-      "server_port": 2083,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.49.134:2087 [VLESS]",
-      "server": "104.17.49.134",
+      "type": "trojan",
+      "tag": "سرویس رایگان نوا 91.193.58.122:2087 [TROJAN]",
+      "server": "91.193.58.122",
       "server_port": 2087,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
+      "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
-        "path": "/",
         "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.19.144.190:2087 [VLESS]",
-      "server": "104.19.144.190",
-      "server_port": 2087,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
         "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 188.164.248.190:2083 [VLESS]",
-      "server": "188.164.248.190",
-      "server_port": 2083,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.112.111:2083 [VLESS]",
-      "server": "104.17.112.111",
-      "server_port": 2083,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 172.67.73.97:2087 [VLESS]",
-      "server": "172.67.73.97",
-      "server_port": 2087,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 162.159.39.96:2083 [VLESS]",
-      "server": "162.159.39.96",
-      "server_port": 2083,
-      "uuid": "764c1973-3294-4dff-8f19-372230eaa7a7",
-      "transport": {
-        "path": "/",
-        "type": "ws",
         "headers": {
           "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
         }
@@ -510,46 +510,46 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "DIRECT",
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.122:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.223.197:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.36:8443 [VLESS]",
-        "سرویس رایگان نوا 104.19.54.83:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.35.232:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.230:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.62.6:2053 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.75:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.149.161:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.222.107:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.49.134:2087 [VLESS]",
-        "سرویس رایگان نوا 104.19.144.190:2087 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.190:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.112.111:2083 [VLESS]",
-        "سرویس رایگان نوا 172.67.73.97:2087 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.96:2083 [VLESS]"
+        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.53.112:443 [TROJAN]",
+        "سرویس رایگان نوا 8.35.211.191:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.17.163.66:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.17.159.203:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.26.10.69:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.37:8443 [TROJAN]",
+        "سرویس رایگان نوا 104.17.165.147:2083 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.177:2053 [TROJAN]",
+        "سرویس رایگان نوا 162.159.38.18:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.19.54.94:2096 [TROJAN]",
+        "سرویس رایگان نوا 172.67.66.200:443 [TROJAN]",
+        "سرویس رایگان نوا 198.41.209.241:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.168.19:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.48.204:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.16.255.8:2053 [TROJAN]",
+        "سرویس رایگان نوا 91.193.58.122:2087 [TROJAN]"
       ]
     },
     {
       "type": "urltest",
       "tag": "♻️ 自动选择",
       "outbounds": [
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.122:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.223.197:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.36:8443 [VLESS]",
-        "سرویس رایگان نوا 104.19.54.83:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.35.232:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.230:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.62.6:2053 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.75:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.149.161:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.222.107:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.49.134:2087 [VLESS]",
-        "سرویس رایگان نوا 104.19.144.190:2087 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.190:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.112.111:2083 [VLESS]",
-        "سرویس رایگان نوا 172.67.73.97:2087 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.96:2083 [VLESS]"
+        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.53.112:443 [TROJAN]",
+        "سرویس رایگان نوا 8.35.211.191:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.17.163.66:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.17.159.203:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.26.10.69:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.37:8443 [TROJAN]",
+        "سرویس رایگان نوا 104.17.165.147:2083 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.177:2053 [TROJAN]",
+        "سرویس رایگان نوا 162.159.38.18:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.19.54.94:2096 [TROJAN]",
+        "سرویس رایگان نوا 172.67.66.200:443 [TROJAN]",
+        "سرویس رایگان نوا 198.41.209.241:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.168.19:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.48.204:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.16.255.8:2053 [TROJAN]",
+        "سرویس رایگان نوا 91.193.58.122:2087 [TROJAN]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -559,46 +559,46 @@
       "type": "urltest",
       "tag": "🔯 故障转移",
       "outbounds": [
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.122:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.223.197:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.36:8443 [VLESS]",
-        "سرویس رایگان نوا 104.19.54.83:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.35.232:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.230:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.62.6:2053 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.75:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.149.161:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.222.107:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.49.134:2087 [VLESS]",
-        "سرویس رایگان نوا 104.19.144.190:2087 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.190:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.112.111:2083 [VLESS]",
-        "سرویس رایگان نوا 172.67.73.97:2087 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.96:2083 [VLESS]"
+        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.53.112:443 [TROJAN]",
+        "سرویس رایگان نوا 8.35.211.191:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.17.163.66:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.17.159.203:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.26.10.69:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.37:8443 [TROJAN]",
+        "سرویس رایگان نوا 104.17.165.147:2083 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.177:2053 [TROJAN]",
+        "سرویس رایگان نوا 162.159.38.18:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.19.54.94:2096 [TROJAN]",
+        "سرویس رایگان نوا 172.67.66.200:443 [TROJAN]",
+        "سرویس رایگان نوا 198.41.209.241:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.168.19:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.48.204:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.16.255.8:2053 [TROJAN]",
+        "سرویس رایگان نوا 91.193.58.122:2087 [TROJAN]"
       ]
     },
     {
       "type": "urltest",
       "tag": "🔮 负载均衡",
       "outbounds": [
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.122:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.223.197:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.36:8443 [VLESS]",
-        "سرویس رایگان نوا 104.19.54.83:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.35.232:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.230:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.62.6:2053 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.75:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.149.161:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.222.107:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.49.134:2087 [VLESS]",
-        "سرویس رایگان نوا 104.19.144.190:2087 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.190:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.112.111:2083 [VLESS]",
-        "سرویس رایگان نوا 172.67.73.97:2087 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.96:2083 [VLESS]"
+        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.53.112:443 [TROJAN]",
+        "سرویس رایگان نوا 8.35.211.191:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.17.163.66:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.17.159.203:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.26.10.69:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.37:8443 [TROJAN]",
+        "سرویس رایگان نوا 104.17.165.147:2083 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.177:2053 [TROJAN]",
+        "سرویس رایگان نوا 162.159.38.18:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.19.54.94:2096 [TROJAN]",
+        "سرویس رایگان نوا 172.67.66.200:443 [TROJAN]",
+        "سرویس رایگان نوا 198.41.209.241:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.168.19:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.48.204:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.16.255.8:2053 [TROJAN]",
+        "سرویس رایگان نوا 91.193.58.122:2087 [TROJAN]"
       ]
     },
     {
@@ -633,23 +633,23 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.122:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.223.197:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.36:8443 [VLESS]",
-        "سرویس رایگان نوا 104.19.54.83:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.35.232:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.230:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.62.6:2053 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.75:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.149.161:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.222.107:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.49.134:2087 [VLESS]",
-        "سرویس رایگان نوا 104.19.144.190:2087 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.190:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.112.111:2083 [VLESS]",
-        "سرویس رایگان نوا 172.67.73.97:2087 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.96:2083 [VLESS]"
+        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.53.112:443 [TROJAN]",
+        "سرویس رایگان نوا 8.35.211.191:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.17.163.66:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.17.159.203:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.26.10.69:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.37:8443 [TROJAN]",
+        "سرویس رایگان نوا 104.17.165.147:2083 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.177:2053 [TROJAN]",
+        "سرویس رایگان نوا 162.159.38.18:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.19.54.94:2096 [TROJAN]",
+        "سرویس رایگان نوا 172.67.66.200:443 [TROJAN]",
+        "سرویس رایگان نوا 198.41.209.241:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.168.19:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.48.204:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.16.255.8:2053 [TROJAN]",
+        "سرویس رایگان نوا 91.193.58.122:2087 [TROJAN]"
       ]
     },
     {
@@ -664,23 +664,23 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.122:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.223.197:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.36:8443 [VLESS]",
-        "سرویس رایگان نوا 104.19.54.83:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.35.232:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.230:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.62.6:2053 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.75:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.149.161:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.222.107:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.49.134:2087 [VLESS]",
-        "سرویس رایگان نوا 104.19.144.190:2087 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.190:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.112.111:2083 [VLESS]",
-        "سرویس رایگان نوا 172.67.73.97:2087 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.96:2083 [VLESS]"
+        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.53.112:443 [TROJAN]",
+        "سرویس رایگان نوا 8.35.211.191:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.17.163.66:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.17.159.203:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.26.10.69:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.37:8443 [TROJAN]",
+        "سرویس رایگان نوا 104.17.165.147:2083 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.177:2053 [TROJAN]",
+        "سرویس رایگان نوا 162.159.38.18:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.19.54.94:2096 [TROJAN]",
+        "سرویس رایگان نوا 172.67.66.200:443 [TROJAN]",
+        "سرویس رایگان نوا 198.41.209.241:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.168.19:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.48.204:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.16.255.8:2053 [TROJAN]",
+        "سرویس رایگان نوا 91.193.58.122:2087 [TROJAN]"
       ]
     },
     {
@@ -690,23 +690,23 @@
         "📢 https://t.me/irnova_proxy",
         "test",
         "DIRECT",
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.122:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.223.197:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.36:8443 [VLESS]",
-        "سرویس رایگان نوا 104.19.54.83:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.35.232:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.230:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.62.6:2053 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.75:2053 [VLESS]",
-        "سرویس رایگان نوا 104.16.149.161:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.222.107:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.49.134:2087 [VLESS]",
-        "سرویس رایگان نوا 104.19.144.190:2087 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.190:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.112.111:2083 [VLESS]",
-        "سرویس رایگان نوا 172.67.73.97:2087 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.96:2083 [VLESS]"
+        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.53.112:443 [TROJAN]",
+        "سرویس رایگان نوا 8.35.211.191:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.17.163.66:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.17.159.203:2087 [TROJAN]",
+        "سرویس رایگان نوا 104.26.10.69:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.37:8443 [TROJAN]",
+        "سرویس رایگان نوا 104.17.165.147:2083 [TROJAN]",
+        "سرویس رایگان نوا 104.17.58.177:2053 [TROJAN]",
+        "سرویس رایگان نوا 162.159.38.18:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.19.54.94:2096 [TROJAN]",
+        "سرویس رایگان نوا 172.67.66.200:443 [TROJAN]",
+        "سرویس رایگان نوا 198.41.209.241:2053 [TROJAN]",
+        "سرویس رایگان نوا 104.17.168.19:443 [TROJAN]",
+        "سرویس رایگان نوا 104.19.48.204:2096 [TROJAN]",
+        "سرویس رایگان نوا 104.16.255.8:2053 [TROJAN]",
+        "سرویس رایگان نوا 91.193.58.122:2087 [TROJAN]"
       ]
     },
     {
