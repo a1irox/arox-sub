@@ -77,12 +77,12 @@
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        "server_name": "aroxdomain.dpdns.org"
       }
     },
     {
@@ -97,12 +97,12 @@
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+        "server_name": "aroxdomain.dpdns.org"
       }
     },
     {
@@ -111,20 +111,20 @@
     },
     {
       "type": "trojan",
-      "tag": "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
-      "server": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+      "tag": "سرویس رایگان نوا aroxdomain.dpdns.org:443 [TROJAN]",
+      "server": "aroxdomain.dpdns.org",
       "server_port": 443,
       "password": "764c1973-3294-4dff-8f19-372230eaa7a7",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -142,12 +142,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -165,12 +165,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -188,12 +188,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -211,12 +211,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -234,12 +234,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -257,12 +257,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -280,12 +280,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -303,12 +303,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -326,12 +326,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -349,12 +349,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -372,12 +372,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -395,12 +395,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -418,12 +418,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -441,12 +441,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -464,12 +464,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -487,12 +487,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -510,12 +510,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -533,12 +533,12 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev"
+          "Host": "aroxdomain.dpdns.org"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nova-coral-node-7bb9.nova-ea3fc5.workers.dev",
+        "server_name": "aroxdomain.dpdns.org",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -556,7 +556,7 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "DIRECT",
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا aroxdomain.dpdns.org:443 [TROJAN]",
         "سرویس رایگان نوا 104.27.41.242:8080 [TROJAN]",
         "سرویس رایگان نوا 188.114.96.6:8080 [TROJAN]",
         "سرویس رایگان نوا 104.19.187.123:2087 [TROJAN]",
@@ -581,7 +581,7 @@
       "type": "urltest",
       "tag": "♻️ 自动选择",
       "outbounds": [
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا aroxdomain.dpdns.org:443 [TROJAN]",
         "سرویس رایگان نوا 104.27.41.242:8080 [TROJAN]",
         "سرویس رایگان نوا 188.114.96.6:8080 [TROJAN]",
         "سرویس رایگان نوا 104.19.187.123:2087 [TROJAN]",
@@ -609,7 +609,7 @@
       "type": "urltest",
       "tag": "🔯 故障转移",
       "outbounds": [
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا aroxdomain.dpdns.org:443 [TROJAN]",
         "سرویس رایگان نوا 104.27.41.242:8080 [TROJAN]",
         "سرویس رایگان نوا 188.114.96.6:8080 [TROJAN]",
         "سرویس رایگان نوا 104.19.187.123:2087 [TROJAN]",
@@ -634,7 +634,7 @@
       "type": "urltest",
       "tag": "🔮 负载均衡",
       "outbounds": [
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا aroxdomain.dpdns.org:443 [TROJAN]",
         "سرویس رایگان نوا 104.27.41.242:8080 [TROJAN]",
         "سرویس رایگان نوا 188.114.96.6:8080 [TROJAN]",
         "سرویس رایگان نوا 104.19.187.123:2087 [TROJAN]",
@@ -687,7 +687,7 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا aroxdomain.dpdns.org:443 [TROJAN]",
         "سرویس رایگان نوا 104.27.41.242:8080 [TROJAN]",
         "سرویس رایگان نوا 188.114.96.6:8080 [TROJAN]",
         "سرویس رایگان نوا 104.19.187.123:2087 [TROJAN]",
@@ -720,7 +720,7 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا aroxdomain.dpdns.org:443 [TROJAN]",
         "سرویس رایگان نوا 104.27.41.242:8080 [TROJAN]",
         "سرویس رایگان نوا 188.114.96.6:8080 [TROJAN]",
         "سرویس رایگان نوا 104.19.187.123:2087 [TROJAN]",
@@ -748,7 +748,7 @@
         "📢 https://t.me/irnova_proxy",
         "Powered By AFO",
         "DIRECT",
-        "سرویس رایگان نوا nova-coral-node-7bb9.nova-ea3fc5.workers.dev:443 [TROJAN]",
+        "سرویس رایگان نوا aroxdomain.dpdns.org:443 [TROJAN]",
         "سرویس رایگان نوا 104.27.41.242:8080 [TROJAN]",
         "سرویس رایگان نوا 188.114.96.6:8080 [TROJAN]",
         "سرویس رایگان نوا 104.19.187.123:2087 [TROJAN]",
